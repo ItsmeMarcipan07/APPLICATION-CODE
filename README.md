@@ -14,6 +14,8 @@ How to change settings.txt file information:
 
 Download program -> https://drive.google.com/drive/folders/1Rm-uveBnZGt_XHr5w3rjMoSt1Am_bL-o?usp=sharing
 
+Download program from GitHub -> https://drive.google.com/file/d/19vnRYXcWasWl4QvDxUUXoaZ7BbuFJ-9T/view?usp=sharing
+
 Steps to run program:
   1. Unzip build folder
   2. Open build folder
